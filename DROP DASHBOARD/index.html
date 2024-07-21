@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DROP</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="drop.png" alt="DROP Logo" class="logo">
+            <h1>DASHBOARD</h1>
+            <span class="overview">| Overview</span>
+        </div>
+    </header>
+    <main>
+        <div class="phases-container">
+            <section id="phase1" class="phase">
+                <h2>PHASE 1</h2>
+                <div class="data-card">
+                    <h3>TDS</h3>
+                    <div class="progress-circle" id="phase1-circle">
+                        <div class="progress-value" id="phase1-tds">Loading...</div>
+                    </div>
+                </div>
+            </section>
+            <section id="phase2" class="phase">
+                <h2>PHASE 2</h2>
+                <div class="data-card">
+                    <h3>TDS</h3>
+                    <div class="progress-circle" id="phase2-circle">
+                        <div class="progress-value" id="phase2-tds">Loading...</div>
+                    </div>
+                </div>
+            </section>
+            <section id="phase3" class="phase">
+                <h2>PHASE 3</h2>
+                <div class="data-card">
+                    <h3>TDS</h3>
+                    <div class="progress-circle" id="phase3-tds-circle">
+                        <div class="progress-value" id="phase3-tds">Loading...</div>
+                    </div>
+                </div>
+                <div class="data-card">
+                    <h3>Turbidity</h3>
+                    <div class="progress-circle" id="phase3-turbidity-circle">
+                        <div class="progress-value" id="phase3-turbidity">Loading...</div>
+                    </div>
+                </div>
+                <div class="data-card">
+                    <h3>Temperature</h3>
+                    <div class="progress-circle" id="phase3-temp-circle">
+                        <div class="progress-value" id="phase3-temperature">Loading...</div>
+                    </div>
+                </div>
+                <div class="data-card">
+                    <h3>pH</h3>
+                    <div class="progress-circle" id="phase3-ph-circle">
+                        <div class="progress-value" id="phase3-ph">Loading...</div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
