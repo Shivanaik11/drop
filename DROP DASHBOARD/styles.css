@@ -96,3 +96,49 @@ main {
     margin: 0.5rem 0;
     font-weight: bold; 
 }
+
+select,
+button {
+    padding: 0.8rem;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+    width: 100%;
+}
+
+.app-select {
+    margin-bottom: 2rem;
+}
+
+.start-btn {
+    background-color: #28a745;
+    width: auto;
+    margin: 0 auto;
+    display: block;
+    font-size: 1.6rem;
+    padding: 1rem 2rem;
+}
+
+.select-app-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.select-app-btn {
+    background-color: #1c1c1c;
+    padding: 1rem 2rem;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.select-label {
+    font-size: 1.5rem;  /* Increased font size */
+    margin-bottom: 1rem;
+    color: #fff;
+}
