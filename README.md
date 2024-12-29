@@ -34,7 +34,6 @@ Drop Desalination is a groundbreaking solution designed to provide portable and 
 
 1. **User Setup:**
    - Users visit [dropdashboard.vercel.app](https://dropdashboard.vercel.app) to learn about the device and its operation.
-   - A user-friendly interface provides detailed instructions and technical specifications for setup and use.
 
 2. **Water Input:**
    - The device accepts saltwater or brackish water as input.
@@ -49,11 +48,8 @@ Drop Desalination is a groundbreaking solution designed to provide portable and 
    - Sensors monitor water quality in real-time, providing feedback on parameters like salinity and turbidity.
 
 5. **Portability:**
-   - Designed to be easily carried and transported, even on a moped, Drop Desalination is perfect for on-the-go needs.
+   - Designed to be easily carried and transported, even on a moped, Drop is perfect for on-the-go needs.
 
-6. **Maintenance:**
-   - The system includes a self-cleaning mechanism and requires minimal manual intervention.
-   - Regular maintenance schedules are provided via the website and user manual.
 
 ## Three-Phase Workflow
 
@@ -74,7 +70,6 @@ Drop Desalination is a groundbreaking solution designed to provide portable and 
 ## Features
 
 - Compact and portable design
-- Advanced desalination technology
 - Real-time water quality monitoring
 - Easy to set up and maintain
 - Ideal for remote locations and emergency situations
