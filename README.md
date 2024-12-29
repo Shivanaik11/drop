@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Shivanaik11/DROP-DESALINATION">
+  <a href="https://github.com/Shivanaik11/drop">
     <img src="DROP DASHBOARD/drop.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -15,11 +15,11 @@
     .
     <a href="https://drive.google.com/file/d/1xyzABC12345view">View Demo</a>
     .
-    <a href="https://github.com/Shivanaik11/DROP-DESALINATION/issues">Report a Bug</a>
+    <a href="https://github.com/Shivanaik11/drop/issues">Report a Bug</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Shivanaik11/DROP-DESALINATION?color=dark-green) ![Forks](https://img.shields.io/github/forks/Shivanaik11/DROP-DESALINATION?style=social) ![Stargazers](https://img.shields.io/github/stars/Shivanaik11/DROP-DESALINATION?style=social) 
+![Contributors](https://img.shields.io/github/contributors/Shivanaik11/drop?color=dark-green) ![Forks](https://img.shields.io/github/forks/Shivanaik11/drop?style=social) ![Stargazers](https://img.shields.io/github/stars/Shivanaik11/drop?style=social) 
 
 ## Table Of Contents
 * [About the Project](#about-the-project)
