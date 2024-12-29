@@ -20,7 +20,7 @@ const applicationSelect = document.getElementById('application');
 // When the start button is clicked, update Firebase with the selected application
 startButton.addEventListener('click', () => {
     const selectedApp = applicationSelect.value;
-    const appRef = database.ref('application');
+    const appRef = database.ref('solenoidControl');
     appRef.set(selectedApp).then(() => {
         alert('Application has been selected and sent to DataBase!');
         window.location.href = 'index.html';  // Redirect back to the dashboard
