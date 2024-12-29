@@ -8,7 +8,7 @@
     "Portable and efficient - Drop Desalination: Making fresh water accessible everywhere!"
     <br/>
     <br/>
-    <a href="DROP DOCUMENTATION/DROP DOCUMENTATION.pdf"><strong>Explore the docs »</strong></a>
+    <a href="DROP DOCUMENTATION/DROP DOCUMENTATION .pdf"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://dropdashboard.vercel.app">Website</a>
