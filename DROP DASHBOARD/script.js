@@ -43,7 +43,7 @@ function updatePhase3() {
         tds: database.ref('phase3/tds'),
         turbidity: database.ref('phase3/turbidity'),
         temperature: database.ref('phase3/temperature'),
-        ph: database.ref('phase3/pH')
+        ph: database.ref('phase3/ph')
     };
 
     phase3Refs.tds.on('value', (snapshot) => {
