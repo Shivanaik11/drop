@@ -11,7 +11,7 @@
     <a href="DROP DOCUMENTATION/DROP DOCUMENTATION.pdf"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://dropdesalination.vercel.app">Website</a>
+    <a href="https://dropdashboard.vercel.app">Website</a>
     .
     <a href="https://drive.google.com/file/d/1xyzABC12345view">View Demo</a>
     .
@@ -33,7 +33,7 @@ Drop Desalination is a groundbreaking solution designed to provide portable and 
 ## Methodology
 
 1. **User Setup:**
-   - Users visit [dropdesalination.vercel.app](https://dropdesalination.vercel.app) to learn about the device and its operation.
+   - Users visit [dropdashboard.vercel.app](https://dropdashboard.vercel.app) to learn about the device and its operation.
    - A user-friendly interface provides detailed instructions and technical specifications for setup and use.
 
 2. **Water Input:**
