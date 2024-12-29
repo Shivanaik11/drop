@@ -67,6 +67,8 @@ Drop Desalination is a groundbreaking solution designed to provide portable and 
    - This step ensures the water meets health standards and enhances taste and quality.
    - The final product is fresh, drinkable water that can be accessed via the built-in smart dispenser.
 
+![Methodology Flowchart](images/methodology.png)
+
 ## Features
 
 - Compact and portable design
