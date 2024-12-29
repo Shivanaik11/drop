@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Shivanaik11/DROP-DESALINATION">
-    <img src="images/drop_logo.png" alt="Logo" width="80" height="80">
+    <img src="DROP DASHBOARD/drop.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
