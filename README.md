@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    "Portable and efficient - Drop Desalination: Making fresh water accessible everywhere!"
+    "PORTABLE SALINE WATER SYNTHESIZER AND PURIFIER"
     <br/>
     <br/>
     <a href="DROP DOCUMENTATION/DROP DOCUMENTATION .pdf"><strong>Explore the docs »</strong></a>
