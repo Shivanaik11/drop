@@ -13,7 +13,7 @@
     <br/>
     <a href="https://dropdashboard.vercel.app">Website</a>
     .
-    <a href="https://drive.google.com/file/d/1xyzABC12345view">View Demo</a>
+    <a href="https://drive.google.com/file/d/1Wi6vfuJlRBywGkcgFmGns0ZW9G2aeki2/view?usp=drivesdk">View Demo</a>
     .
     <a href="https://github.com/Shivanaik11/drop/issues">Report a Bug</a>
   </p>
