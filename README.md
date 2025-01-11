@@ -78,5 +78,5 @@ Drop Desalination is a groundbreaking solution designed to provide portable and 
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Shivanaik11/drop/blob/main/LICENSE.md) for more information.
 
